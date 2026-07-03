@@ -33,7 +33,8 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
+One thing I believe that many people around me would disagree with is that getting a job should not be the main goal of learning a skill. Most people focus on learning just enough to get employed as quickly as possible, but I believe real learning should make you capable of solving problems independently. If you become genuinely skilled and keep improving yourself, opportunities will naturally increase. That is why I would rather spend more time building a strong foundation than rush to chase certificates or titles without real competence.
+
 
 ---
 
@@ -55,11 +56,11 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+Consistent practice produces better results than occasional bursts of motivation.
 
 ### Evidence from my life
 
-Add your answer here...
+Whenever I studied or learned a skill consistently, even for a short time each day, I made steady progress and retained more knowledge. On the other hand, when I depended on motivation alone, I often started strong but struggled to maintain momentum and achieved less overall.
 
 ---
 
@@ -67,11 +68,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Real understanding comes from applying knowledge, not just consuming information.
 
 ### Evidence from my life
 
-Add your answer here...
+I have watched tutorials and read materials that seemed clear until I tried doing the work myself. Building projects, answering questions, and practicing what I learned exposed gaps in my understanding and helped me learn much faster than passive study alone.
 
 ---
 
@@ -79,11 +80,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Seeking feedback early leads to better outcomes than trying to perfect everything alone.
 
 ### Evidence from my life
 
-Add your answer here...
+There were times I hesitated to ask questions because I wanted to figure everything out myself. When I eventually sought guidance from more experienced people, I corrected mistakes much faster and improved my work, saving both time and effort.
 
 ---
 
@@ -135,11 +136,26 @@ Include this line:
 
 ## Your Article
 
-Add your answer here...
+From Beginner to Builder: How Amos Kelechi Established Himself as a DevOps Engineer and Technology Mentor
+
+
+
+When Amos Kelechi began his transition into DevOps, he did not have years of industry experience or a long list of professional projects. What he had was consistency, curiosity, and a commitment to learning by doing. Those qualities gradually transformed him from a beginner into a DevOps engineer whose work demonstrated both technical competence and reliability.
+
+Over the years, Amos built and shipped several real-world DevOps projects that showcased his understanding of Linux, Git, GitHub, Docker, Kubernetes, CI/CD pipelines, cloud platforms, Infrastructure as Code, and monitoring tools. Rather than relying only on course certificates, he maintained an active GitHub profile where recruiters and fellow engineers could see practical implementations of what he had learned. His portfolio documented each project, the challenges encountered, the solutions implemented, and the lessons learned.
+
+His dedication to continuous improvement earned him multiple industry-recognized certifications and opened the door to his first DevOps engineering role. From there, he contributed to automating software deployment pipelines, improving infrastructure reliability, reducing deployment time, and helping development teams deliver software more efficiently. His work consistently focused on solving real business problems instead of simply using popular tools.
+
+Beyond his professional responsibilities, Amos published technical articles explaining DevOps concepts in simple language. His blog became a useful resource for beginners who wanted practical explanations instead of overly complex tutorials. He also remained active within technology communities, reviewing projects, answering questions, mentoring newcomers, and encouraging aspiring engineers who were starting from backgrounds similar to his own.
+
+His leadership extended beyond technical contributions. He organized learning sessions, collaborated with teammates on engineering initiatives, and promoted a culture of documentation, knowledge sharing, and continuous learning. Colleagues recognized him as someone who combined technical ability with patience, humility, and a willingness to help others grow.
+
+Looking back, Amos's progress was not defined by overnight success but by thousands of small, consistent improvements. Every project completed, every mistake corrected, every article published, and every contribution made to the community became part of a solid professional reputation. His journey demonstrated that discipline, practical experience, and continuous learning remained some of the most dependable paths to long-term success in technology.
+
+P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by Pravin Mishra. You can start your DevOps journey by joining this Discord community (https://lnkd.in/dPjTW6wX).
 
 ### Public Link
-
-Paste your link here:
+https://www.linkedin.com/posts/amosolijo_from-beginner-to-builder-how-amos-kelechi-share-7478676500188180480-0tVK/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACeeKxUBHCmo50w2w4CI7SAJd2ZqQPhPsCQ
 
 `__________________________`
 
@@ -165,7 +181,7 @@ This is about self-awareness, not judgment.
 
 ### Answer Format
 
-**Yes / No**
+**Yes**
 
 If Yes:
 
@@ -173,7 +189,7 @@ If Yes:
 
 ## Answer
 
-Add your answer here...
+The strongest emotions I felt were guilt and regret. Even if cutting corners seemed to save time in the moment, I usually found myself thinking about whether I had really earned the result. That feeling made it difficult to enjoy whatever short-term benefit I gained. It also reminded me that shortcuts often delay real learning because they avoid the very challenges that help me grow. Over time, those experiences taught me that integrity gives me greater confidence than temporary convenience. I now try to do things properly, even when the process is slower or more demanding, because the peace of mind and the skills I gain are worth much more than any shortcut.
 
 ---
 
@@ -199,16 +215,16 @@ Choose books that improve:
 
 ## Book List
 
-1. Add your answer here...
-2. Add your answer here...
-3. Add your answer here...
-4. Add your answer here...
-5. Add your answer here...
-6. Add your answer here...
-7. Add your answer here...
-8. Add your answer here...
-9. Add your answer here...
-10. Add your answer here...
+1. Atomic Habits — James Clear
+2. The Phoenix Project — Gene Kim, Kevin Behr, and George Spafford
+3. The DevOps Handbook — Gene Kim, Jez Humble, Patrick Debois, John Willis, and Nicole Forsgren
+4. The Pragmatic Programmer — Andrew Hunt and David Thomas
+5. Deep Work — Cal Newport
+6. So Good They Can't Ignore You — Cal Newport
+7. The Psychology of Money — Morgan Housel
+8. How to Win Friends and Influence People — Dale Carnegie
+9. The 7 Habits of Highly Effective People — Stephen R. Covey
+10. Leaders Eat Last — Simon Sinek
 
 ---
 
@@ -237,16 +253,16 @@ List topics only. No need to share numbers.
 
 ## My Metrics
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
+* Learning hours per week
+* Hands-on labs and projects completed
+* GitHub commits and portfolio updates
+* Technical articles or documentation published
+* Deep work sessions per week
+* Daily screen time and focus time
+* Sleep hours and overall energy level
+* Exercise and physical activity
+* Monthly savings and spending tracker
+* Professional certifications and skills completed
 
 ---
 
@@ -324,28 +340,28 @@ Add your answer here...
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+I realized that consistent execution matters more than having the perfect learning plan. Progress comes from showing up every day and completing meaningful work, even when motivation is low.
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+I sometimes spend too much time preparing or searching for the best learning resources instead of applying what I already know by building projects.
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+Every weekday from 7:00 PM to 9:00 PM, I will complete one uninterrupted DevOps learning session that includes both studying and hands-on practice before checking social media or entertainment.
 
 ### LinkedIn Post
 
 Paste your LinkedIn post link here:
 
-`__________________________`
+https://www.linkedin.com/posts/amosolijo_join-the-dmi-devops-micro-internship-share-7478922891259158528-OsAq/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACeeKxUBHCmo50w2w4CI7SAJd2ZqQPhPsCQ
 
 ---
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **ADD LINK HERE**  
-- Blog / Medium : **ADD LINK HERE**  
+- LinkedIn Post URL: **https://www.linkedin.com/posts/amosolijo_join-the-dmi-devops-micro-internship-share-7478922891259158528-OsAq/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACeeKxUBHCmo50w2w4CI7SAJd2ZqQPhPsCQ**  
+- Blog / Medium : **https://medium.com/@amoskelechukwu/five-months-from-now-i-dont-just-want-to-say-i-completed-a-devops-internship-df7924256902**  
 
 ---
 
