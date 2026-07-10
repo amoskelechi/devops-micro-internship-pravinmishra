@@ -6,7 +6,7 @@ Part of the DevOps Micro Internship (DMI) Cohort 3 with Agentic AI
 
 ## Purpose
 
-In this assignment, you will create and customize a `CLAUDE.md` file for your project using `/init`. You will then modify it with project-specific rules and verify how it changes Claude’s behavior through before-and-after testing.
+In this assignment, you will create and customize a `CLAUDE.md` file for your project using `/init`. You will then modify it with project-specific rules and verify how it changes Claude's behavior through before-and-after testing.
 
 ---
 
@@ -14,13 +14,13 @@ In this assignment, you will create and customize a `CLAUDE.md` file for your pr
 
 ## Goal
 
-Capture Claude’s response before `CLAUDE.md` exists in the project to establish a baseline behavior.
+Capture Claude's response before `CLAUDE.md` exists in the project to establish a baseline behavior.
 
 ### Evidence
 
-#### Screenshot 1 — Claude’s generic response before CLAUDE.md exists (project contains only `index.html`, `style.css`, `images/`, `README.MD`, `privacy.html`, `terms.html`)
+#### Screenshot 1 — Claude's generic response before CLAUDE.md exists (project contains only `index.html`, `style.css`, `images/`, `README.MD`, `privacy.html`, `terms.html`)
 
-Add your screenshot here.
+![Screenshot 1 - Generic response before CLAUDE.md](screenshots/Screenshot2_1.png)
 
 ---
 
@@ -34,7 +34,7 @@ Generate an initial `CLAUDE.md` file using the `/init` command and review the au
 
 #### Screenshot 2 — The auto-generated CLAUDE.md open in VS Code showing its content
 
-Add your screenshot here.
+![Screenshot 2 - Auto-generated CLAUDE.md](screenshots/Screenshot2_2.png)
 
 ---
 
@@ -48,7 +48,7 @@ Update the generated `CLAUDE.md` file by adding project-specific instructions ac
 
 #### Screenshot 3 — Your customized CLAUDE.md in VS Code showing all 5 sections (scroll to show the full file)
 
-Add your screenshot here.
+![Screenshot 3 - Customized CLAUDE.md with 5 sections](screenshots/Screenshot2_3.png)
 
 ---
 
@@ -56,19 +56,19 @@ Add your screenshot here.
 
 ## Goal
 
-Verify that Claude’s behavior changes after adding `CLAUDE.md` by running a new session and comparing responses before and after context is applied.
+Verify that Claude's behavior changes after adding `CLAUDE.md` by running a new session and comparing responses before and after context is applied.
 
 ### Evidence
 
 #### Screenshot 4 — Claude's specific, detailed answer after reading CLAUDE.md (Claude mentioning S3, CloudFront and Terraform)
 
-Add your screenshot here.
+![Screenshot 4 - Claude mentions S3, CloudFront, Terraform](screenshots/Screenshot2_4.png)
 
 ---
 
 #### Screenshot 5 — Claude refusing or warning against adding React because of the "No JavaScript" convention defined in CLAUDE.md
 
-Add your screenshot here.
+![Screenshot 5 - Claude refuses React request](screenshots/Screenshot2_5.png)
 
 ---
 
@@ -82,7 +82,7 @@ Commit the `CLAUDE.md` file and push it to your GitHub fork so the project instr
 
 #### Screenshot 6 — `CLAUDE.md` visible in your GitHub repository after pushing the commit
 
-Add your screenshot here.
+![Screenshot 6 - CLAUDE.md visible on GitHub](screenshots/Screenshot2_6.png)
 
 ---
 
@@ -98,19 +98,19 @@ Add your screenshot here.
 
 Paste your forked repository URL here:
 
-`__________________________`
+`https://github.com/amoskelechi/Ultimate-Agentic-DevOps-with-Claude-Code.git`
 
 ---
 
 # Completion Checklist
 
-[ ] Screenshot 1 shows a generic Claude response (no CLAUDE.md)<br>
-[ ] Screenshot 2 shows the auto-generated `/init` output <br>
-[ ] Screenshot 3 shows all 5 sections in your customized CLAUDE.md <br>
-[ ] Screenshot 4 shows Claude mentioning S3, CloudFront, and Terraform <br>
-[ ] Screenshot 5 shows Claude refusing the React request <br>
-[ ] Screenshot 6 shows `CLAUDE.md` committed and visible in your GitHub repository <br>
-[ ] GitHub repository URL is included in the submission <br>
+[x] Screenshot 1 shows a generic Claude response (no CLAUDE.md)<br>
+[x] Screenshot 2 shows the auto-generated `/init` output <br>
+[x] Screenshot 3 shows all 5 sections in your customized CLAUDE.md <br>
+[x] Screenshot 4 shows Claude mentioning S3, CloudFront, and Terraform <br>
+[x] Screenshot 5 shows Claude refusing the React request <br>
+[x] Screenshot 6 shows `CLAUDE.md` committed and visible in your GitHub repository <br>
+[x] GitHub repository URL is included in the submission <br>
 
 ---
 
