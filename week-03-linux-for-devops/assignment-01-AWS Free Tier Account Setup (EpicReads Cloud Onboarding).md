@@ -20,7 +20,7 @@ Demonstrate understanding of AWS basics and Free Tier usage by answering the fol
 
 #### Question 1 — What is an AWS account, and why do you need it at this stage?
 
-Write your answer here.
+An AWS account is a personal gateway to Amazon's cloud computing services — compute, storage, networking, databases, and more, all billed to the account owner individually. At this stage, I need it to get hands-on with real cloud infrastructure rather than just reading about it. Since EpicReads is moving to the cloud, having my own AWS account lets me practice deploying, configuring, and managing resources exactly as I would for a real client or employer.
 
 ---
 
