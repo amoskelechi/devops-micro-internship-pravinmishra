@@ -76,8 +76,8 @@ This is not a course. It is an internship-style program — real deployments, re
 <!-- Week 02 → Agentic AI with Claude Code -->
 <!-- [![Week 02 – Agentic AI](./badges/week-02.svg)](./week-02-agentic-ai/) -->
 
-<!-- Week 03 → Linux & Bash for DevOps -->
-<!-- [![Week 03 – Linux & Bash](./badges/week-03.svg)](./week-03-linux-and-bash-for-devops/) -->
+ Week 03 → Linux & Bash for DevOps
+ [![Week 03 – Linux & Bash](./badges/week-03.svg)](./week-03-linux-and-bash-for-devops/)
 
 <!-- Week 04 → Git & GitHub -->
 <!-- [![Week 04 – Git](./badges/week-04.svg)](./week-04-github/) -->
@@ -133,7 +133,7 @@ This is not a course. It is an internship-style program — real deployments, re
 | 00 | Internet & Networking Basics | ⬜ Not Started | ⏳ Pending | — | — |
 | 01 | Success Mindset | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/amosolijo_join-the-dmi-devops-micro-internship-share-7478922891259158528-OsAq/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACeeKxUBHCmo50w2w4CI7SAJd2ZqQPhPsCQ | https://medium.com/@amoskelechukwu/five-months-from-now-i-dont-just-want-to-say-i-completed-a-devops-internship-df7924256902 |
 | 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
-| 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
+| 03 | Linux & Bash for DevOps | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/amosolijo_dmibypravinmishra-agenticai-claudecode-ugcPost-7485602327308156929-fxjA/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACeeKxUBHCmo50w2w4CI7SAJd2ZqQPhPsCQ | https://medium.com/@amoskelechukwu/uilding-an-ai-assisted-linux-incident-triage-system-with-claude-code-72cbd7efb368?postPublishedType=repub |
 | 04 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
 | 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
 | 06 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
