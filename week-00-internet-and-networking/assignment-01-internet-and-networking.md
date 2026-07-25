@@ -34,7 +34,8 @@ Replace `task-1-chatgpt.png` with your actual screenshot file name.
 
 ## What I Learned (2–3 lines)
 
-Add your answer here...
+Using ChatGPT as a learning assistant showed me that asking clear and detailed questions leads to better explanations. I also learned that ChatGPT can simplify technical concepts by using relatable real-life examples, making it easier to understand new DevOps topics.
+
 
 ---
 
@@ -59,7 +60,7 @@ Write a short explanation (**100–150 words**) that includes:
 
 ## Answer
 
-Add your answer here...
+When a user visits EpicReads, their request is broken into small units called packets, which travel across the internet through different routes until they reach the server in Finland. The server has a unique IP address that identifies its location on the network. Communication between the user's device and the server follows the TCP/IP protocol suite, where TCP ensures that all packets are delivered accurately and in the correct order, while IP handles the addressing and routing of those packets. Once the request reaches the server, HTTP or the more secure HTTPS protocol is used to transfer the website's content back to the user's browser. HTTPS encrypts the communication, protecting sensitive information such as login credentials and payment details during transmission.
 
 ---
 
@@ -102,18 +103,18 @@ Replace `task-3-diagram.png` with your actual diagram file name.
 
 ### Frontend
 
-* Add your answer here...
-* Add your answer here...
+* HTML
+* CSS
 
 ### Backend
 
-* Add your answer here...
-* Add your answer here...
+* Node.js(Express.js)
+* Python(Django or Flask)
 
 ### Database
 
-* Add your answer here...
-* Add your answer here...
+* MySQL
+* PostgreSQL
 
 ---
 
@@ -142,7 +143,8 @@ In **50–100 words**, explain in your own words:
 
 ## Answer
 
-Add your answer here...
+The Domain Name System (DNS) is like the internet's phonebook. It translates a human-friendly domain name, such as epicreads.com, into the server's IP address so users do not have to remember numerical addresses.
+ To connect the domain to the server at 52.172.142.222, an A (Address) record should be created because it maps a domain name directly to an IPv4 address, allowing browsers to locate and access the website correctly.
 
 ---
 
@@ -218,7 +220,7 @@ Add the following credit note at the end of your post:
 Paste your LinkedIn post URL here:
 
 ```text
-Add your URL here...
+`https://www.linkedin.com/posts/amosolijo_devops-learninginpublic-cloudcomputing-activity-7486691857645699072-M9_R?utm_source=share&utm_medium=member_desktop&rcm=ACoAACeeKxUBHCmo50w2w4CI7SAJd2ZqQPhPsCQ``
 ```
 
 ---
@@ -227,7 +229,57 @@ Add your URL here...
 
 Paste the full text of your LinkedIn post here:
 
-Add your post content here...
+Going Back to Strengthen My DevOps Foundation – Week 0 Completed
+
+Although I'm currently progressing through Week 4 of the DevOps Micro Internship (DMI) – Agentic AI Cohort 3, I realized I hadn't documented my Week 0 assignment. Rather than skip it, I decided to go back and complete it because strong fundamentals are essential for everything that follows in DevOps.
+
+Here's what I learned during Week 0:
+
+🤖 Using ChatGPT as a Learning Assistant
+
+I learned how to write clear and effective prompts that produce better explanations. One of the concepts I explored was network protocols, and using simple real-life examples made it much easier to understand.
+
+🌐 Internet & Networking
+
+I gained a better understanding of how websites are accessed across the internet. I learned about:
+
+Packet Switching
+
+IP Addresses
+
+TCP/IP
+
+HTTP vs HTTPS and why secure communication matters
+
+🏗️ Application Architecture
+
+I compared Two-Tier and Three-Tier application architectures and learned the role of each layer:
+
+Frontend
+
+Backend
+
+Database
+
+I also became familiar with technologies commonly used in each layer, such as HTML, CSS, Node.js, Python, MySQL, and PostgreSQL.
+
+🌍 DNS Basics
+
+I learned how the Domain Name System (DNS) translates domain names into IP addresses and why an A Record is used to point a domain to an IPv4 address.
+
+💻 Development Environment
+
+I verified my Visual Studio Code setup, explored the integrated terminal, and ensured my development environment was ready for the hands-on tasks that followed in later weeks.
+
+Looking back, Week 0 gave me the networking and system fundamentals that have made the later weeks much easier to understand. I'm glad I took the time to revisit it instead of leaving a gap in my learning journey.
+
+Now it's time to continue building on that foundation as I progress through the rest of the internship.
+
+I remain grateful to my mentor, Pravin Mishra, our lead co-mentor, Anjana Muthunayake, co-mentor Joy Ukpabi, and other co-mentors for this wonderful opportunity and clarifications of DevOps concepts, and the hands-on.
+
+#DevOps #LearningInPublic #CloudComputing #Networking #DNS #TCPIP #VSCode #AgenticAI #BuildInPublic #CareerGrowth #OpenToLearn
+
+P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by Pravin Mishra. You can start your DevOps journey by joining this Discord community: https://lnkd.in/dPjTW6wX
 
 ---
 
@@ -235,19 +287,22 @@ Add your post content here...
 
 ### What did you find easy?
 
-Add your answer here...
+I found it easy to understand the basic networking concepts because they can be related to everyday activities such as sending letters and making phone calls. Using ChatGPT to clarify unfamiliar terms also made learning faster and more interactive.
+
 
 ---
 
 ### What was difficult?
 
-Add your answer here...
+The most challenging part was understanding how multiple networking concepts such as packet switching, TCP/IP, IP addresses, and HTTP/HTTPS work together behind the scenes. I had to read and practice several examples before the complete process became clear.
+
 
 ---
 
 ### What will you improve next week?
 
-Add your answer here...
+Next week, I plan to spend more time practicing the hands-on tasks instead of only reading about the concepts. I also want to improve my understanding of Linux commands and networking fundamentals, as they are essential skills for a DevOps engineer.
+
 
 ---
 
