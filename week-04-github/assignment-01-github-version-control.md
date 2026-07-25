@@ -20,11 +20,11 @@ Set up your GitHub profile professionally.
 
 #### What I did
 
-Add your answer here...
+I reviewed and updated my GitHub profile to present a professional online presence. I ensured my profile includes a professional photo, a concise bio highlighting my DevOps interests, my location, a LinkedIn profile link, and pinned repositories that showcase my projects and learning progress.
 
 #### Screenshot 1 — Your GitHub profile
 
-Add your screenshot here.
+![Screenshot 1 - My professional GitHub profile](screenshots/task1-screenshot.png)
 
 ---
 
@@ -46,7 +46,7 @@ git commit -m "initial commit"
 
 #### Screenshot 2 — Output of your first commit
 
-Add your screenshot here.
+![Screenshot 2 - Output of my first commit](screenshots/Task2-screenshot.png)
 
 ---
 

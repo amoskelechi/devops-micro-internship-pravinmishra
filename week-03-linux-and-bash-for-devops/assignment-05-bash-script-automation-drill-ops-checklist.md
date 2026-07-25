@@ -398,7 +398,11 @@ It uses variables (`score`, `file_path`), an array with a loop (`tools`), condit
 
 Paste your LinkedIn post URL here:
 
+<<<<<<< HEAD
 `https://www.linkedin.com/posts/amosolijo_dmibypravinmishra-agenticai-claudecode-ugcPost-7484000363172306945-nU7p/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACeeKxUBHCmo50w2w4CI7SAJd2ZqQPhPsCQ`
+=======
+`Add your URL here`
+>>>>>>> upstream/main
 
 ---
 

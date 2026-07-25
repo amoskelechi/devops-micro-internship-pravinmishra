@@ -8,6 +8,7 @@ Part of the DevOps Micro Internship (DMI) Cohort 3 with Agentic AI
 
 In this assignment, you will create and verify an AWS Free Tier account as part of onboarding EpicReads — an online bookstore moving to the cloud. You will demonstrate an understanding of AWS fundamentals, Free Tier services, and account setup by answering conceptual questions and capturing proof of a working AWS Console login.
 
+
 ---
 
 # Task 1 — Understanding AWS & Free Tier
@@ -56,7 +57,7 @@ Confirm that your AWS account setup is complete by navigating to the Account sec
 
 #### Screenshot 1 — AWS Account page showing account name (email may be blurred)
 
-![Screenshot 1 - AWS Account page with name visible](screenshots/assignment1-screenshot1.png)
+![Screenshot 1 - AWS Account page with name](screenshots/assignment1-screenshot1.png)
 
 ---
 
