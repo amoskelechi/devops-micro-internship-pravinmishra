@@ -155,9 +155,9 @@ Looking back, Amos's progress was not defined by overnight success but by thousa
 P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by Pravin Mishra. You can start your DevOps journey by joining this Discord community (https://lnkd.in/dPjTW6wX).
 
 ### Public Link
-https://www.linkedin.com/posts/amosolijo_from-beginner-to-builder-how-amos-kelechi-share-7478676500188180480-0tVK/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACeeKxUBHCmo50w2w4CI7SAJd2ZqQPhPsCQ
 
-`__________________________`
+
+`https://www.linkedin.com/posts/amosolijo_from-beginner-to-builder-how-amos-kelechi-share-7478676500188180480-0tVK/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACeeKxUBHCmo50w2w4CI7SAJd2ZqQPhPsCQ`
 
 ---
 
@@ -288,7 +288,7 @@ Examples:
 
 Answer:
 
-Add your answer here...
+Yes
 
 ---
 
@@ -306,7 +306,9 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
+* Mon–Thu: 120 min deep work
+* Sat: DMI session
+* Sun: Weekly review
 
 ---
 
@@ -314,11 +316,19 @@ Add your answer here...
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+Mon   9:00pm - 11:00pm
+Tues  9:00pm - 11:00pm
+Wed   9:00pm - 11:00pm
+Thurs 9:00pm - 11:00pm
+Fri   9:00pm - 11:00pm
+Sat   5:30am - 2:00pm
+Sun   9:00pm - Mon 1:00am
+
+
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+Seven (7 sessions)
 
 ---
 
@@ -332,7 +342,9 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
+Put my phones away whenever I am on DMI work every week.
+Putting my phone away means No social media distractions.
+My environment will be just my home but the distractions will be reduced
 
 ---
 
