@@ -20,13 +20,13 @@ Confirm that you have a working GitHub account and can access your GitHub dashbo
 
 #### Screenshot 1 — GitHub dashboard or Home page showing you're signed in, with your username visible
 
-Add your screenshot here.
+![Screenshot 1 — GitHub dashboard or Home page showing you're signed in, with your username visible](screenshots/assignment-codetrack4-task1-screenshot.png)
 
 ---
 
 #### Screenshot 2 (Optional but Recommended) — Your GitHub profile with `https://github.com/<username>` visible in the browser address bar
 
-Add your screenshot here.
+![Screenshot 2 (Optional but Recommended) — Your GitHub profile with `https://github.com/<username>` visible in the browser address bar](screenshots/assignment-codetrack4-task1-screenshot2.png)
 
 ---
 
@@ -40,19 +40,19 @@ Browse Trending, search for a public project, star at least one repository, and 
 
 #### Screenshot 3 — GitHub Trending page visible in the browser
 
-Add your screenshot here.
+![Screenshot 3 — GitHub Trending page visible in the browser](screenshots/assignment-codetrack4-task2-screenshot1.png)
 
 ---
 
 #### Screenshot 4 — A repository page showing the Star button in the Starred state
 
-Add your screenshot here.
+![Screenshot 4 — A repository page showing the Star button in the Starred state](screenshots/assignment-codetrack4-task2-screenshot2.png)
 
 ---
 
 #### Screenshot 5 — Your forked repository page with your username and repository name visible in the URL
 
-Add your screenshot here.
+![Screenshot 5 — Your forked repository page with your username and repository name visible in the URL](screenshots/assignment-codetrack4-task2-screenshot3.png)
 
 ---
 
@@ -66,7 +66,7 @@ Add a professional bio to your GitHub profile — and optionally your location, 
 
 #### Screenshot 6 — Your public GitHub profile showing your username and professional bio
 
-Add your screenshot here.
+![Screenshot 6 — Your public GitHub profile showing your username and professional bio](screenshots/assignment-codetrack4-task3-screenshot1.png)
 
 ---
 
@@ -80,21 +80,20 @@ Add your screenshot here.
 
 ## GitHub Profile URL
 
-Paste your GitHub profile URL here:
 
-`Add your URL here`
+`https://github.com/amoskelechi`
 
 ---
 
 # Completion Checklist
 
-- [ ] GitHub account created or existing account confirmed (Screenshot 1)
-- [ ] Trending repositories explored (Screenshot 3)
-- [ ] At least one repository starred (Screenshot 4)
-- [ ] At least one public repository forked (Screenshot 5)
-- [ ] Professional bio added to your GitHub profile (Screenshot 6)
-- [ ] GitHub profile URL included
-- [ ] No passwords, codes, or authentication secrets exposed
+- [x] GitHub account created or existing account confirmed (Screenshot 1)
+- [x] Trending repositories explored (Screenshot 3)
+- [x] At least one repository starred (Screenshot 4)
+- [x] At least one public repository forked (Screenshot 5)
+- [x] Professional bio added to your GitHub profile (Screenshot 6)
+- [x] GitHub profile URL included
+- [x] No passwords, codes, or authentication secrets exposed
 
 ---
 
