@@ -140,7 +140,6 @@ Verify the React application is publicly accessible via the server's public IP.
 
 #### LinkedIn Post URL
 
-Paste your LinkedIn post URL here:
 
 <<<<<<< HEAD
 `https://www.linkedin.com/posts/amosolijo_dmibypravinmishra-agenticai-claudecode-ugcPost-7483336747280584704-o5Ur/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACeeKxUBHCmo50w2w4CI7SAJd2ZqQPhPsCQ`

@@ -217,11 +217,9 @@ Add the following credit note at the end of your post:
 
 ## LinkedIn Post URL
 
-Paste your LinkedIn post URL here:
+https://www.linkedin.com/posts/amosolijo_devops-learninginpublic-cloudcomputing-activity-7486691857645699072-M9_R?utm_source=share&utm_medium=member_desktop&rcm=ACoAACeeKxUBHCmo50w2w4CI7SAJd2ZqQPhPsCQ
 
-```text
-`https://www.linkedin.com/posts/amosolijo_devops-learninginpublic-cloudcomputing-activity-7486691857645699072-M9_R?utm_source=share&utm_medium=member_desktop&rcm=ACoAACeeKxUBHCmo50w2w4CI7SAJd2ZqQPhPsCQ``
-```
+
 
 ---
 

@@ -380,7 +380,6 @@ Running resources continue to accrue cost even when idle, which can quickly exce
 
 #### LinkedIn Post URL
 
-Paste your LinkedIn post URL here:
 
 <<<<<<< HEAD
 `https://www.linkedin.com/posts/amosolijo_dmibypravinmishra-agenticai-claudecode-ugcPost-7483945087337582593-sp7t/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACeeKxUBHCmo50w2w4CI7SAJd2ZqQPhPsCQ`

@@ -118,7 +118,6 @@ Verify the deployed website and Nginx service are healthy.
 
 #### LinkedIn Post URL
 
-Paste your LinkedIn post URL here:
 
 <<<<<<< HEAD
 `https://www.linkedin.com/posts/amosolijo_dmibypravinmishra-agenticai-claudecode-ugcPost-7483969492503642113-I78h/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACeeKxUBHCmo50w2w4CI7SAJd2ZqQPhPsCQ`

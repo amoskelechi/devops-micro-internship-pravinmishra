@@ -368,7 +368,6 @@ Every weekday from 7:00 PM to 9:00 PM, I will complete one uninterrupted DevOps 
 
 ### LinkedIn Post
 
-Paste your LinkedIn post link here:
 
 <<<<<<< HEAD
 https://www.linkedin.com/posts/amosolijo_join-the-dmi-devops-micro-internship-share-7478922891259158528-OsAq/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACeeKxUBHCmo50w2w4CI7SAJd2ZqQPhPsCQ
