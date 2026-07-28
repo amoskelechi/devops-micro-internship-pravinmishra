@@ -20,7 +20,7 @@ Create the `.claude/agents/` directory and add all required agent files.
 
 #### Screenshot 1 — VS Code sidebar showing `.claude/agents/` with all 3 files
 
-Add your screenshot here.
+![Screenshot 1 — VS Code sidebar showing `.claude/agents/` with all 3 files](screenshots/assignment4-task1-screenshot1.png)
 
 ---
 
@@ -34,19 +34,19 @@ Analyze the configuration differences between the three agents and demonstrate u
 
 #### 1. Why does the cost optimizer use Haiku instead of Sonnet?
 
-Add your answer here...
+The cost optimizer uses claude-haiku-4-5 because cost analysis is a pattern-matching and read-only task — it scans files and applies known rules to flag expensive configurations. Haiku is faster and cheaper while being fully capable of this kind of structured analysis. Sonnet is reserved for more complex reasoning tasks like security auditing, where nuanced judgment about risk severity is needed. Using Haiku here also demonstrates good agent design: match the model to the complexity of the task, not the most powerful model available.
 
 ---
 
 #### 2. Why does the security auditor NOT have Write in its tools list?
 
-Add your answer here...
+The security auditor is intentionally read-only (Read, Grep, Bash) because its job is to observe and report — never to change anything. Giving a security scanner Write access would be dangerous: it could accidentally modify infrastructure files while scanning them, or an agentic loop could trigger unintended changes. Separating the auditor (read) from the writer (write) is a core principle of least privilege — each agent only gets the permissions it strictly needs to do its job.
 
 ---
 
 #### 3. Why does the tf-writer use `inherit` instead of a specific model?
 
-Add your answer here...
+The tf-writer uses inherit so it automatically uses whatever model the parent Claude session is running on. This makes the agent flexible and future-proof — if the main session is upgraded to a more capable model, the tf-writer benefits without needing its config updated. It also makes sense because the tf-writer is tightly coupled to the main workflow: it needs to match the reasoning capability of whoever is directing it, so inheriting the parent model keeps them in sync.
 
 ---
 
@@ -54,13 +54,13 @@ Add your answer here...
 
 #### Screenshot 2 — `security-auditor.md` frontmatter showing model and tools configuration
 
-Add your screenshot here.
+![Screenshot 2 — `security-auditor.md` frontmatter showing model and tools configuration](screenshots/assignment4-task2-screenshot1.png)
 
 ---
 
 #### Screenshot 3 — `cost-optimizer.md` frontmatter showing the model and tools configuration
 
-Add your screenshot here.
+![Screenshot 3 — `cost-optimizer.md` frontmatter showing the model and tools configuration](screenshots/assignment4-task2-screenshot2.png)
 
 ---
 
@@ -74,13 +74,13 @@ Trigger the security auditor agent and analyze the generated security report for
 
 #### Screenshot 4 — The delegation message showing Claude launched the security-auditor
 
-Add your screenshot here.
+![Screenshot 4 — The delegation message showing Claude launched the security-auditor](screenshots/assignment4-task3-screenshot1.png)
 
 ---
 
 #### Screenshot 5 — Security audit report output
 
-Add your screenshot here.
+![Screenshot 5 — Security audit report output](screenshots/assignment4-task3-screenshot2.png)
 
 ---
 
@@ -94,7 +94,8 @@ Trigger the cost optimizer agent and review the generated cost optimization repo
 
 #### Screenshot 6 — The full cost optimization report
 
-Add your screenshot here.
+![Screenshot 6 — The full cost optimization report](screenshots/assignment4-task4-screenshot1_a.png)
+![Screenshot 6 — The full cost optimization report](screenshots/assignment4-task4-screenshot1_b.png)
 
 ---
 
@@ -108,24 +109,23 @@ Add your screenshot here.
 
 ## GitHub Repository URL
 
-Paste your forked repository URL here:
 
-`Add your URL here`
+`https://github.com/amoskelechi/Ultimate-Agentic-DevOps-with-Claude-Code`
 
 ---
 
 # Completion Checklist
 
-- [ ] `.claude/agents/` folder contains all 3 agent files
-- [ ] Screenshot 2 shows correct `security-auditor.md` configuration
-- [ ] Screenshot 3 shows correct `cost-optimizer.md` configuration
-- [ ] All 3 written answers completed 
-- [ ] Security auditor executed successfully
-- [ ] Cost optimizer executed successfully
-- [ ] Security report is visible with findings
-- [ ] Cost report is visible with recommendations
-- [ ] All required screenshots added
-- [ ] GitHub repo updated with agents
+- [x] `.claude/agents/` folder contains all 3 agent files
+- [x] Screenshot 2 shows correct `security-auditor.md` configuration
+- [x] Screenshot 3 shows correct `cost-optimizer.md` configuration
+- [x] All 3 written answers completed 
+- [x] Security auditor executed successfully
+- [x] Cost optimizer executed successfully
+- [x] Security report is visible with findings
+- [x] Cost report is visible with recommendations
+- [x] All required screenshots added
+- [x] GitHub repo updated with agents
 
 ---
 
