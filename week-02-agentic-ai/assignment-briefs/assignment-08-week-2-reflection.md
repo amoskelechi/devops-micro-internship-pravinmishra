@@ -99,90 +99,55 @@ Your reflection must include the following sections.
 
 #### 1. Biggest technical insight I got this week
 
-Write about the biggest thing you understood this week.
-For example, you can write about:
+Full Name: Amos Kelechi Olijo
 
-* How Claude Code can follow an Agentic Loop
-* Why `CLAUDE.md` helps control AI behavior
-* How skills turn long prompts into reusable slash commands
-* Why tool restrictions matter
-* How subagents help divide work
-* What MCP adds to an AI-powered DevOps workflow
-* Why hooks and permissions are important for safety
-* How memory helps make the workflow more consistent
+1. Biggest Technical Insight I Got This Week
+
+Week 2 completely changed the way I think about AI tools. Before this week, I mostly saw AI as something that answers questions or writes code. After learning about Agentic AI, I realized that AI can also follow structured workflows and perform tasks systematically. One of my biggest insights was understanding the purpose of CLAUDE.md. Instead of repeating instructions in every prompt, I learned that a well-written CLAUDE.md file provides consistent guidance for the AI throughout a project.
+
+I also enjoyed learning about Skills and Subagents. Skills showed me how frequently used prompts can be turned into reusable commands, making work faster and more organized. Subagents demonstrated that complex work can be divided into smaller, specialized tasks instead of relying on one large prompt. This approach makes AI-assisted development more structured and efficient.
+
+Another important lesson came from learning about Hooks, Permissions, and Memory. I now understand that AI should not be given unrestricted access to everything. Permissions and hooks provide safety and control, while memory helps maintain consistency across tasks without repeating the same information.
 
 ---
 
 #### 2. Biggest insight I got about myself this week
 
-Write about what you noticed about your own learning style.
-For example:
+One thing I discovered about myself is that I learn much better by practicing than by simply reading documentation or watching videos. Whenever I completed an assignment and experimented with the commands myself, the concepts became much clearer.
 
-* Do you rush without reading instructions?
-* Do you get stuck because you skip small details?
-* Do you learn better by doing instead of watching?
-* Did you become more confident using terminal commands?
-* Did you realize documentation is part of engineering?
+I also realized that patience is an important part of technical learning. Sometimes I wanted to move quickly, but slowing down and carefully following each instruction helped me understand the concepts much better.
 
 ---
 
 #### 3. My biggest weakness or loop I noticed
 
-Write honestly about one repeated challenge.
-For example:
+The biggest challenge I noticed is that I sometimes become too focused on completing an assignment that I overlook small but important details. This has occasionally caused me to repeat work or go back and fix mistakes that could have been avoided if I had carefully reviewed the instructions first.
 
-* I skip instructions too quickly
-* I do not verify folder structure carefully
-* I get confused between regular terminal and Claude Code terminal
-* I panic when commands fail
-* I forget to take screenshots at the correct step
-* I do not commit changes regularly
+I also noticed that when I encounter an error, my first reaction is sometimes to think something is seriously wrong. However, I have learned that error messages usually contain valuable clues that can help identify the actual problem.
 
 ---
 
 #### 4. One system I will implement from this week
 
-Write one exact habit you will implement going forward.
+Going forward, I will create a simple checklist before starting every assignment. The checklist will include reading all instructions, identifying required screenshots, verifying folder structures, and reviewing the submission requirements before marking the assignment as complete.
 
-Your answer must include:
-
-* The habit
-* When you will do it
-* How it will help you
-
-Example:
-
-> Before starting every assignment, I will create a checklist in my notebook and verify each screenshot requirement before moving to the next task. I will do this every evening before my study session so that I do not miss proof during submission.
+I will do this at the beginning of every study session. This habit will help me avoid missing important details, reduce unnecessary corrections, and improve the quality of my submissions.
 
 ---
 
 #### 5. What I learned about Agentic AI and DevOps
 
-Explain how your understanding of DevOps changed after using Agentic AI tools.
+Week 2 helped me understand that DevOps is not just about automation—it is also about creating reliable, repeatable, and controlled workflows. Agentic AI is much more than a chatbot. It can follow structured instructions, use specialized skills, work with subagents, and operate within carefully defined permissions.
 
-You may include points like:
-
-* AI is not just for chatting
-* Agentic AI can follow structured workflows
-* Permissions and tool access matter
-* Reusable skills reduce manual work
-* DevOps engineers need both automation and control
-* Human review is still important
+I also learned that human oversight remains essential. AI can increase productivity, but engineers are still responsible for reviewing outputs, making decisions, and ensuring that automation is safe and accurate. This balance between automation and human judgment is an important principle in DevOps.
 
 ---
 
 #### 6. My Week 2 highlight
 
-Write about one moment you are proud of.
+My proudest moment was successfully completing the Week 2 assignments and understanding how the different Agentic AI concepts connect together. Seeing how CLAUDE.md, Skills, Subagents, MCP, Hooks, Permissions, and Memory all contribute to a structured workflow gave me a much clearer understanding of modern AI-assisted software development.
 
-Examples:
-
-* Creating the `.claude/skills/` folder structure correctly
-* Running `/scaffold-terraform`
-* Seeing Terraform files generated automatically
-* Understanding why `tf-plan` should not have Write access
-* Setting up memory or permissions
-* Fixing an error by reading the output carefully
+Overall, Week 2 strengthened both my technical knowledge and my learning habits. I now approach AI as a collaborative engineering tool rather than simply a question-and-answer assistant, and I look forward to applying these concepts as I continue my DevOps learning journey.
 
 ---
 
@@ -218,11 +183,12 @@ Hashtags:
 
 #DMIByPravinMishra #AgenticAI #ClaudeCode #DevOps #LearningInPublic
 
+![Screenshot of Linkedin Post for week 02](screenshots/week2_linkedin_post.png)
 ---
 
 ## 11. Submission Instructions
 
-Submit the GitHub Repo Link. 
+https://github.com/amoskelechi/devops-micro-internship-pravinmishra
 
 ---
 
@@ -230,13 +196,13 @@ Submit the GitHub Repo Link.
 
 Before submission, verify:
 
-* [ ] Reflection title is included
-* [ ] Full name is visible
-* [ ] Reflection is at least 300 words
-* [ ] All 6 required sections are answered
-* [ ] At least two Week 2 technical topics are mentioned
-* [ ] One exact habit/system is included
-* [ ] LinkedIn post is created
-* [ ] Required P.S. line is included in the LinkedIn post
-* [ ] LinkedIn post URL is added
-* [ ] Screenshot of LinkedIn post is added
+* [x] Reflection title is included
+* [x] Full name is visible
+* [x] Reflection is at least 300 words
+* [x] All 6 required sections are answered
+* [x] At least two Week 2 technical topics are mentioned
+* [x] One exact habit/system is included
+* [x] LinkedIn post is created
+* [x] Required P.S. line is included in the LinkedIn post
+* [x] LinkedIn post URL is added
+* [x] Screenshot of LinkedIn post is added

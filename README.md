@@ -73,8 +73,8 @@ This is not a course. It is an internship-style program — real deployments, re
  Week 01 → Success Mindset 
  [![Week 01 – Mindset](./badges/week-01.svg)](./week-01-success-mindset/)
 
-<!-- Week 02 → Agentic AI with Claude Code -->
-<!-- [![Week 02 – Agentic AI](./badges/week-02.svg)](./week-02-agentic-ai/) -->
+ Week 02 → Agentic AI with Claude Code 
+ [![Week 02 – Agentic AI](./badges/week-02.svg)](./week-02-agentic-ai/) 
 
  Week 03 → Linux & Bash for DevOps
  [![Week 03 – Linux & Bash](./badges/week-03.svg)](./week-03-linux-and-bash-for-devops/)
@@ -132,7 +132,7 @@ This is not a course. It is an internship-style program — real deployments, re
 |------|-------|--------|------------|---------------|-----------|
 | 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/amosolijo_devops-learninginpublic-cloudcomputing-activity-7486691857645699072-M9_R?utm_source=share&utm_medium=member_desktop&rcm=ACoAACeeKxUBHCmo50w2w4CI7SAJd2ZqQPhPsCQ | https://medium.com/@amoskelechukwu/revisiting-week-0-why-i-went-back-to-strengthen-my-devops-foundation-37a01483946d |
 | 01 | Success Mindset | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/amosolijo_join-the-dmi-devops-micro-internship-share-7478922891259158528-OsAq/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACeeKxUBHCmo50w2w4CI7SAJd2ZqQPhPsCQ | https://medium.com/@amoskelechukwu/five-months-from-now-i-dont-just-want-to-say-i-completed-a-devops-internship-df7924256902 |
-| 02 | Agentic AI with Claude Code | &nbsp; 🔄 In Progress &nbsp; | ⏳ Pending | — | — |
+| 02 | Agentic AI with Claude Code | ✅ Completed | ✅ Solved  | https://www.linkedin.com/posts/amosolijo_dmibypravinmishra-agenticai-claudecode-ugcPost-7488273485295878145-yBzt/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACeeKxUBHCmo50w2w4CI7SAJd2ZqQPhPsCQ | https://medium.com/@amoskelechukwu/how-agentic-ai-changed-the-way-i-think-about-devops-b97ad088f99d |
 | 03 | Linux & Bash for DevOps | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/amosolijo_dmibypravinmishra-agenticai-claudecode-ugcPost-7485602327308156929-fxjA/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACeeKxUBHCmo50w2w4CI7SAJd2ZqQPhPsCQ | https://medium.com/@amoskelechukwu/uilding-an-ai-assisted-linux-incident-triage-system-with-claude-code-72cbd7efb368?postPublishedType=repub |
 | 04 | Git & GitHub | &nbsp; 🔄 In Progress &nbsp; | ⏳ Pending | — | — |
 | 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
