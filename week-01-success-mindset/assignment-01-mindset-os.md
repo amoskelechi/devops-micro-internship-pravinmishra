@@ -156,12 +156,7 @@ P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by 
 
 ### Public Link
 
-<<<<<<< HEAD
-`Add your URL here`
-=======
-
-`https://www.linkedin.com/posts/amosolijo_from-beginner-to-builder-how-amos-kelechi-share-7478676500188180480-0tVK/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACeeKxUBHCmo50w2w4CI7SAJd2ZqQPhPsCQ`
->>>>>>> 2a42c5de6e9a3381bd7c32a09b655047e36276ca
+`https://www.linkedin.com/posts/amosolijo_from-beginner-to-builder-how-amos-kelechi-activity-7478676503153745920-jB5G?utm_source=share&utm_medium=member_desktop&rcm=ACoAACeeKxUBHCmo50w2w4CI7SAJd2ZqQPhPsCQ`
 
 ---
 
@@ -368,12 +363,7 @@ Every weekday from 7:00 PM to 9:00 PM, I will complete one uninterrupted DevOps 
 
 ### LinkedIn Post
 
-
-<<<<<<< HEAD
-https://www.linkedin.com/posts/amosolijo_join-the-dmi-devops-micro-internship-share-7478922891259158528-OsAq/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACeeKxUBHCmo50w2w4CI7SAJd2ZqQPhPsCQ
-=======
-`Add your URL here`
->>>>>>> upstream/main
+`https://www.linkedin.com/posts/amosolijo_from-beginner-to-builder-how-amos-kelechi-activity-7478676503153745920-jB5G?utm_source=share&utm_medium=member_desktop&rcm=ACoAACeeKxUBHCmo50w2w4CI7SAJd2ZqQPhPsCQ`
 
 ---
 
