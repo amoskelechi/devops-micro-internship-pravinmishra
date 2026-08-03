@@ -46,7 +46,7 @@ You can publish your blog on:
 
 #### Screenshot 1 — Blog published and visible
 
-Add your screenshot here.
+![Screenshot 1 — Blog published and visible](screenshots/assignment8-task1-screenshot1.png)
 
 ---
 
@@ -54,7 +54,7 @@ Add your screenshot here.
 
 Blog Link:
 
-`Add your URL here`
+`https://medium.com/@amoskelechukwu/how-agentic-ai-changed-the-way-i-think-about-devops-b97ad088f99d?sharedUserId=amoskelechukwu`
 
 ---
 
@@ -92,23 +92,28 @@ Your post must include:
 
 #### Screenshot 2 — LinkedIn post published
 
-Add your screenshot here.
+![Screenshot 2 — LinkedIn post published](screenshots/assignment8-task2-screenshot1.png)
 
 ---
 
 ### Submission Field
 
-LinkedIn Post Content (copy-paste here):
-
-```
-Paste your LinkedIn post content here
-```
+🚀 Week 2 Reflection – My DevOps & Agentic AI Journey
+Week 2 of the DevOps Micro Internship challenged me to think differently about AI.
+One of my biggest takeaways is that Agentic AI is far more than a chatbot. Learning about CLAUDE.md, Skills, Subagents, MCP, Hooks, Permissions, and Memory showed me how AI can work within structured workflows while still requiring human oversight.
+I also learned something about myself: I understand technical concepts much better when I practice them instead of only reading about them. Every assignment helped reinforce that lesson.
+One habit I'm taking into future assignments is creating a checklist before I begin so I don't miss important instructions or required screenshots.
+I'm grateful for the opportunity to keep learning and improving one week at a time.
+Grateful to Pravin Mishra for designing a curriculum that goes deep enough to explore what's actually possible. Special thanks to Anjana Muthunayake (lead co-mentor), Joy Ukpabi, Ranbir Kaur and the entire co-mentor team.
+📸 Screenshot from one of my Week 2 assignments attached.
+P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by Pravin Mishra. My graded progress is public: https://lnkd.in/gYsNDPrB · Start your DevOps journey: https://lnkd.in/gqU7Eqjs
+#DMIByPravinMishra #AgenticAI #ClaudeCode #DevOps #LearningInPublic
 
 ---
 
 ### LinkedIn Post Link:
 
-`Add your URL here`
+`https://www.linkedin.com/posts/amosolijo_dmibypravinmishra-agenticai-claudecode-ugcPost-7488273485295878145-yBzt/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACeeKxUBHCmo50w2w4CI7SAJd2ZqQPhPsCQ`
 
 ---
 
@@ -124,15 +129,15 @@ Paste your LinkedIn post content here
 
 # Completion Checklist
 
-* [ ] Blog written with required structure
-* [ ] Blog includes at least 2–3 Week 2 topics
-* [ ] Blog is publicly accessible
-* [ ] LinkedIn post created
-* [ ] Required P.S. line included
-* [ ] LinkedIn post content copied in submission field
-* [ ] Blog link added
-* [ ] LinkedIn post link added
-* [ ] Screenshots added to GitHub repo
+* [x] Blog written with required structure
+* [x] Blog includes at least 2–3 Week 2 topics
+* [x] Blog is publicly accessible
+* [x] LinkedIn post created
+* [x] Required P.S. line included
+* [x] LinkedIn post content copied in submission field
+* [x] Blog link added
+* [x] LinkedIn post link added
+* [x] Screenshots added to GitHub repo
 
 ---
 
