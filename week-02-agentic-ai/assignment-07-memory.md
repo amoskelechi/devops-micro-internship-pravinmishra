@@ -92,13 +92,13 @@ Run three tests that prove Claude remembers what you told it — without you say
 ## Linkedin Post Link
 
 
-https://www.linkedin.com/posts/amosolijo_devops-agenticai-claudecode-ugcPost-7488261674823692302-qCrL/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACeeKxUBHCmo50w2w4CI7SAJd2ZqQPhPsCQ
+`https://www.linkedin.com/posts/amosolijo_devops-agenticai-claudecode-ugcPost-7488261674823692302-qCrL/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACeeKxUBHCmo50w2w4CI7SAJd2ZqQPhPsCQ`
 
 ---
 
 ## GitHub Repository URL
 
-https://github.com/amoskelechi/devops-micro-internship-pravinmishra
+`https://github.com/amoskelechi/devops-micro-internship-pravinmishra`
 
 ---
 
