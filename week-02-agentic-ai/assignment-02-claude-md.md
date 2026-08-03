@@ -96,12 +96,7 @@ Commit the `CLAUDE.md` file and push it to your GitHub fork so the project instr
 
 ## GitHub Repository URL
 
-
-<<<<<<< HEAD
-`https://github.com/amoskelechi/Ultimate-Agentic-DevOps-with-Claude-Code.git`
-=======
-`https://github.com/pravinmishraaws/Ultimate-Agentic-DevOps-with-Claude-Code`
->>>>>>> upstream/main
+`https://github.com/amoskelechi/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/assignment-02-claude-md.md`
 
 ---
 

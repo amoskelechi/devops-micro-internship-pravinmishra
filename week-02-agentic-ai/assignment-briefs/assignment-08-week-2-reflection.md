@@ -183,7 +183,9 @@ Hashtags:
 
 #DMIByPravinMishra #AgenticAI #ClaudeCode #DevOps #LearningInPublic
 
-![Screenshot of Linkedin Post for week 02](screenshots/week2_linkedin_post.png)
+`https://www.linkedin.com/posts/amosolijo_dmibypravinmishra-agenticai-claudecode-ugcPost-7488273485295878145-yBzt/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACeeKxUBHCmo50w2w4CI7SAJd2ZqQPhPsCQ`
+
+
 ---
 
 ## 11. Submission Instructions

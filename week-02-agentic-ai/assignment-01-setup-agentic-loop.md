@@ -75,12 +75,7 @@ Interact with Claude Code and observe how it performs the Agentic Loop (Gather â
 
 ## GitHub Repository URL
 
-
-<<<<<<< HEAD
-`https://github.com/amoskelechi/Ultimate-Agentic-DevOps-with-Claude-Code`
-=======
-`https://github.com/pravinmishraaws/Ultimate-Agentic-DevOps-with-Claude-Code`
->>>>>>> upstream/main
+`https://github.com/amoskelechi/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/assignment-01-setup-agentic-loop.md`
 
 ---
 
