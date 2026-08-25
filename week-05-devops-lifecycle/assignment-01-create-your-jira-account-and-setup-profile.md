@@ -20,7 +20,7 @@ Create or access your Jira Cloud account and reach the Jira Software workspace s
 
 #### Screenshot 1 — Jira welcome page, dashboard, or main workspace after successful login, with your name or avatar visible
 
-Add your screenshot here.
+![](screenshots/assignment1-jira-task1-screenshot1.png)
 
 ---
 
@@ -34,15 +34,17 @@ Confirm your email address if Atlassian requests verification.
 
 #### Screenshot 2 (if applicable) — Confirmation screen after email verification, or the inbox showing the Atlassian verification email subject
 
-Add your screenshot here.
+![](screenshots/assignment1-jira-task2-screenshot1.png)
 
 ---
 
 ### Notes
 
-If you signed up with Google and no separate email verification was required, state that here instead of a screenshot.
+If you signed up with Google and no separate email verification was required, include the following statement instead of Screenshot 2:
 
-Write your answer here.
+> I signed up using Google, and Atlassian did not require separate email verification.
+
+I signed up using email, so I have nothing to include here
 
 ---
 
@@ -56,7 +58,7 @@ Update your Jira profile with your full name, a job title or role (e.g. "Aspirin
 
 #### Screenshot 3 — Updated profile page showing your full name, role/title, and bio
 
-Add your screenshot here.
+![](screenshots/assignment1-jira-task3-screenshot1.png)
 
 ---
 
@@ -70,33 +72,35 @@ Locate the project list and open a project's Board or Backlog, and view Project 
 
 #### Screenshot 4 — "View all projects" page showing at least one project
 
-Add your screenshot here.
+![Screenshot 4 — "View all projects" page showing at least one project](screenshots/assignment1-jira-task3-screenshot1.png)
 
 ---
 
 #### Screenshot 5 — Opened project showing either the Board or Backlog screen
 
-Add your screenshot here.
+![Screenshot 5 — Opened project showing either the Board or Backlog screen](screenshots/assignment1-jira-task4-screenshot2.png)
 
 ---
 
 # Submission Instructions
 
-- Add all required screenshots in your submission
-- Full name must be visible in required screenshots
-- Do not expose sensitive information (passwords, verification codes, account recovery details)
+- Add all five required screenshots, unless separate email verification was not required
+- If Screenshot 2 is not applicable, include the Google sign-in note instead
+- Your full name or profile avatar must be visible where specifically required
+- Do not expose passwords, verification codes, private email content, account recovery information, or other sensitive information
+- You may hide or blur your email address if it appears in a screenshot
 
 ---
 
 # Completion Checklist
 
-- [ ] Task 1: Jira Software Cloud account created or existing account accessed (Screenshot 1)
-- [ ] Task 2: Email verification completed, or a Google sign-in note included (Screenshot 2 or Notes)
-- [ ] Task 3: Professional profile updated with full name, role/title, and bio (Screenshot 3)
-- [ ] Task 4: Projects page and a Board or Backlog explored (Screenshots 4 & 5)
-- [ ] No Jira issues created
-- [ ] Full Name visible in required screenshots
-- [ ] No sensitive data exposed
+- [x] Task 1: Jira Software Cloud account created or existing account accessed (Screenshot 1)
+- [x] Task 2: Email verification completed, or a Google sign-in note included (Screenshot 2 or Notes)
+- [x] Task 3: Professional profile updated with full name, role/title, and bio (Screenshot 3)
+- [x] Task 4: Projects page, Board or Backlog, and Project settings explored without making changes (Screenshots 4 & 5)
+- [x] No Jira issues created
+- [x] Full Name visible in required screenshots
+- [x] No sensitive data exposed
 
 ---
 
