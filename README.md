@@ -85,8 +85,8 @@ This is not a course. It is an internship-style program — real deployments, re
  [![Week 04 – Git](./badges/week-04.svg)](./week-04-git-and-github/) 
 
 
-<!-- Week 05 → DevOps Lifecycle & Agile -->
-<!-- [![Week 05 – Agile](./badges/week-05.svg)](./week-05-devops-lifecycle/) -->
+ Week 05 → DevOps Lifecycle & Agile
+ [![Week 05 – Agile](./badges/week-05.svg)](./week-05-devops-lifecycle/)
 
 <!-- Week 06 → AWS Cloud -->
 <!-- [![Week 06 – AWS](./badges/week-06.svg)](./week-06-aws-cloud/) -->
@@ -140,7 +140,7 @@ This is not a course. It is an internship-style program — real deployments, re
 
 | 03 | Linux & Bash for DevOps | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/amosolijo_dmibypravinmishra-agenticai-claudecode-ugcPost-7485602327308156929-fxjA/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACeeKxUBHCmo50w2w4CI7SAJd2ZqQPhPsCQ | https://medium.com/@amoskelechukwu/uilding-an-ai-assisted-linux-incident-triage-system-with-claude-code-72cbd7efb368?postPublishedType=repub |
 | 04 | Git & GitHub | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/amosolijo_devops-git-github-activity-7490993554178154496-mShQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAACeeKxUBHCmo50w2w4CI7SAJd2ZqQPhPsCQ | https://medium.com/@amoskelechukwu/building-an-ai-assisted-git-safety-net-a-pre-commit-hook-and-a-claude-code-skill-that-never-f08e42ceb4cc |
-| 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
+| 05 | DevOps Lifecycle & Agile | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/amosolijo_devops-devopsengineering-agenticai-activity-7496267071664885762-E3s2?utm_source=share&utm_medium=member_desktop&rcm=ACoAACeeKxUBHCmo50w2w4CI7SAJd2ZqQPhPsCQ | https://medium.com/@amoskelechukwu/learning-to-think-like-a-devops-team-with-jira-scrum-and-agentic-ai-c5c395fef1b4 |
 | 06 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
 | 07 | Azure Cloud | ⬜ Not Started | ⏳ Pending | — | — |
 | 08 | Terraform | ⬜ Not Started | ⏳ Pending | — | — |
